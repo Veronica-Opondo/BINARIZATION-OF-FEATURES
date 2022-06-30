@@ -1,0 +1,2 @@
+# BINARIZATION-OF-FEATURES
+Binarization 
